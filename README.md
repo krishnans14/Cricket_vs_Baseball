@@ -15,5 +15,4 @@ This app has been built and accessible through binder here:
 https://mybinder.org/v2/gh/krishnans14/Cricket_vs_Baseball/main?urlpath=voila%2Frender%2Fcricball_classifier_app.ipynb
 
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/krishnans14/Cricket_vs_Baseball/main?urlpath=voila%2Frender%2Fcricball_classifier_app.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/krishnans14/Cricket_vs_Baseball/main?urlpath=voila%2Frender%2Fcricball_classifier_app.ipynb)
